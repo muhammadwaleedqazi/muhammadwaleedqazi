@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=header&text=Muhammad%20Waleed&fontColor=ffffff"/>
+</div>
+
+<div align="center">
 
 # Muhammad Waleed
 
