@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Dark Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=160&section=header&text=Muhammad%20Waleed&fontColor=ffffff&fontSize=42"/>
+<!-- Animated Dark Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=Muhammad%20Waleed&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
 
 </div>
 
@@ -9,8 +9,8 @@
 
 <div align="center">
 
-### Computer Science Undergraduate  
-Focused on building strong foundations in software development
+<!-- Animated Subtitle -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=Computer+Science+Undergraduate;Focused+on+clean+code+and+strong+foundations" />
 
 </div>
 
@@ -18,10 +18,14 @@ Focused on building strong foundations in software development
 
 <div align="center">
 
-### Current Focus
+<!-- Dark About Me Card -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&section=body&text=About%20Me&fontColor=ffffff&fontSize=22"/>
 
-Flutter & Dart · Data Structures & Algorithms  
-Database Systems · Information Security fundamentals
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=16&duration=3500&pause=800&color=CCCCCC&center=true&vCenter=true&width=700&lines=CS+student+building+real-world+projects;Interested+in+Flutter%2C+DSA%2C+and+secure+systems;Focused+on+growth%2C+clarity%2C+and+consistency" />
 
 </div>
 
@@ -29,7 +33,25 @@ Database Systems · Information Security fundamentals
 
 <div align="center">
 
-### Tech Stack
+<!-- Dark Focus Section -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&text=Current%20Focus&fontColor=ffffff&fontSize=22"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=16&duration=3500&pause=700&color=CCCCCC&center=true&vCenter=true&width=650&lines=Flutter+%26+Dart;Data+Structures+%26+Algorithms;Database+Systems;Information+Security+Fundamentals" />
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Dark Skills -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&text=Tech%20Stack&fontColor=ffffff&fontSize=22"/>
+
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=cpp,java,dart,flutter,html,css,js,sqlite,mysql,git,github&theme=dark" />
 
@@ -39,7 +61,10 @@ Database Systems · Information Security fundamentals
 
 <div align="center">
 
-### GitHub Stats
+<!-- Dark Stats -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&text=GitHub%20Stats&fontColor=ffffff&fontSize=22"/>
+
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=muhammadwaleedqazi&show_icons=true&theme=radical&hide_border=false" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadwaleedqazi&layout=compact&theme=radical" height="160"/>
@@ -50,14 +75,12 @@ Database Systems · Information Security fundamentals
 
 <div align="center">
 
-### Connect
+<!-- Dark Quote -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&text=Philosophy&fontColor=ffffff&fontSize=22"/>
 
-<a href="https://linkedin.com/in/MuhammadWaleed" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Email-181717?style=flat&logo=gmail&logoColor=white"/>
-</a>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=15&duration=5000&pause=2000&color=AAAAAA&center=true&vCenter=true&width=800&lines=People+under+pressure+don%E2%80%99t+work+better%3B+they+just+work+faster.+%E2%80%94+Tom+DeMarco" />
 
 </div>
 
@@ -65,14 +88,7 @@ Database Systems · Information Security fundamentals
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
-
-> *People under pressure don’t work better; they just work faster.*  
-> — Tom DeMarco
-
-</div>
-
 <!-- Dark Footer -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
+
 </div>
