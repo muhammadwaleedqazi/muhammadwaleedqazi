@@ -1,12 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=header&text=Muhammad%20Waleed&fontColor=ffffff"/>
+
+<!-- Dark Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=160&section=header&text=Muhammad%20Waleed&fontColor=ffffff&fontSize=42"/>
+
 </div>
+
+---
 
 <div align="center">
 
-# Muhammad Waleed
-
-Computer Science Undergraduate  
+### Computer Science Undergraduate  
 Focused on building strong foundations in software development
 
 </div>
@@ -17,7 +20,7 @@ Focused on building strong foundations in software development
 
 ### Current Focus
 
-Flutter & Dart · Data Structures & Algorithms ·  
+Flutter & Dart · Data Structures & Algorithms  
 Database Systems · Information Security fundamentals
 
 </div>
@@ -47,7 +50,29 @@ Database Systems · Information Security fundamentals
 
 <div align="center">
 
+### Connect
+
+<a href="https://linkedin.com/in/MuhammadWaleed" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Email-181717?style=flat&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
+
 > *People under pressure don’t work better; they just work faster.*  
 > — Tom DeMarco
 
+</div>
+
+<!-- Dark Footer -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer"/>
 </div>
