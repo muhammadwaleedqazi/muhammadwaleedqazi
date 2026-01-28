@@ -20,8 +20,16 @@
 <img src="https://skillicons.dev/icons?i=cpp,java,dart,flutter,html,css,js,sqlite,mysql,git,github&perline=12" />
 
 ### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadwaleedqazi&show_icons=true&theme=transparent&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadwaleedqazi&layout=compact&theme=transparent&hide_border=true" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=muhammadwaleedqazi&show_icons=true&theme=transparent&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadwaleedqazi&layout=compact&theme=transparent&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 > *People under pressure don’t work better; they just work faster.* — Tom DeMarco
