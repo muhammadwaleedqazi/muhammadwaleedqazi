@@ -14,7 +14,8 @@
 - Flutter & Dart (cross-platform mobile apps)
 - Data Structures & Algorithms (problem solving)
 - Database Systems
-- Information Security fundamentals
+- Full Stack development fundamentals
+
 
 ### Tech Stack
 <img src="https://skillicons.dev/icons?i=cpp,java,dart,flutter,html,css,js,sqlite,mysql,git,github&perline=12" />
